@@ -14,6 +14,8 @@ I am Jagdish, working for SAS Research & Development in Pune. I am currently in 
 ### My Interests:
 - I love doing pencil sketching, a few images 
 
+- I like cooking, hanging around with friends and family.
+
 
 ### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
 
@@ -33,11 +35,3 @@ I am Jagdish, working for SAS Research & Development in Pune. I am currently in 
 - PageMaker including versions of Lorem Ipsum.
 
 
-### I like this movie:
-
-### Hobbies
-### Interseted in
-
-### Sample portfolio website
-
-### DS Projects 
