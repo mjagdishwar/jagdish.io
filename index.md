@@ -1,6 +1,6 @@
 # Jagdishwar Mankala
 ### Introduction:
-I am Jagdish
+I am Jagdish, working for SAS Research & Development in Pune. I am currently in Diploma phase of BSc Online degree program. I am very new to Prorgamming and Data Science field and quite excited to learn, collaborate and grow. 
 ### This is an example Data Science Portfolio
 
 ### Education:
@@ -12,7 +12,7 @@ I am Jagdish
 - Currently working as Analytics Developer at SAS R&D (P) Limited. My primary job responsibility here is to develop analytics software in Retail domain. 
 
 ### My Interests:
-- 
+- I love 
 
 
 ### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
