@@ -12,7 +12,7 @@ I am Jagdish, working for SAS Research & Development in Pune. I am currently in 
 - Currently working as Analytics Developer at SAS R&D (P) Limited. My primary job responsibility here is to develop analytics software in Retail domain. 
 
 ### My Interests:
-- I love 
+- I love doing pencil sketching, a few images 
 
 
 ### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
