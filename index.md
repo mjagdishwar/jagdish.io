@@ -12,26 +12,16 @@ I am Jagdish, working for SAS Research & Development in Pune. I am currently in 
 - Currently working as Analytics Developer at SAS R&D (P) Limited. My primary job responsibility here is to develop analytics software in Retail domain. 
 
 ### My Interests:
-- I love doing pencil sketching, a few images 
-
-- I like cooking, hanging around with friends and family.
+- I love doing pencil sketching. I also like cooking, hanging around with friends and family.
 
 
-### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
+### Data Analytics and Machine Leaning application in CAE for product design and analysis:
+- Development of physics based data driven models using Tillage machine field test data to be used for structural durability analysis. 
+- This novel approach involved application of linear and polynomial regression models to build load cases for analysis, further classification models using KNN and Random Forest algorithms are used for deriving acceptance criteria thereby approaching toward an optimized design solution. 
 
-- Lorem Ipsum is simply dummy text of the printing and
-- typesetting industry. Lorem Ipsum has been the industry's 
-- standard dummy text ever since the 1500s, 
-- when an unknown printer took a galley of type and 
-- scrambled it to make a type specimen book. 
-- It has survived not only five centuries, 
-- but also the leap into electronic typesetting, 
-- remaining essentially unchanged. 
 
-### Project 2: [Something More](https://duckduckgo.com)
-- It was popularised in the 1960s with the release of 
-- Letraset sheets containing Lorem Ipsum passages, 
-- and more recently with desktop publishing software like Aldus 
-- PageMaker including versions of Lorem Ipsum.
+### Anomaly detection using Machine Leaning algorithms for tractors temperature sensor: 
+- Development of anomaly detection machine learning program to detect and highlight anomalous data from temperature sensor as part of John Deere hackathon event. 
+- This approach used K-Mean, Isolation Forest clustering algorithms for identifying abnormal data and hidden patterns which are published in form of a report.
 
 
